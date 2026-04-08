@@ -1,0 +1,8 @@
+public class Automatic-Robot-Switch{
+    public static void main(String[] args) {
+        int switch = //INPUT GOES HERE, 0 FOR PAUSED LOOP, 1 FOR ACTIVE LOOP//;
+        if (switch = 1) {
+          for (int i = 1; i <= //THE NUMBER OF TIMES YOU WANT IT TO GO//; i++) {
+          //AFTER THIS USE A ROBOT COMMAND//
+
+ 
