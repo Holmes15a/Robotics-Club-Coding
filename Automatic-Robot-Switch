@@ -7,7 +7,7 @@ public class Automatic-Robot-Switch{
 
  /*
 
-Dude, you have several errors associated with ur code:
+Bro, you have several errors associated with ur code:
 1. You can not have dashes in ur class name
 2.You can not use switch (I think) because it is a key word
 3.I think you meant "==" and not "="
