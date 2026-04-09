@@ -1,4 +1,4 @@
 # Robotics-Club-Coding
-These github files are for our students and peers who wish to learn or at least collaborate with us to learn and experience the coding world. 
+The GitHub Files
 ------------------------------------------------------------------------------------------------------------------------------------
-Only BE robotics club members please
+Only BE robotics club members will know
