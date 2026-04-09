@@ -1,0 +1,5 @@
+import //Robot module, Keep doing this for multiple// as robot
+  if input=1
+    for i in range(10000)
+      robot.shoot(//In this example, the amount of balls//)
+    
